@@ -1,7 +1,7 @@
 # PRG -- Ročníkový projekt, 3. ročník
 
-1. přepište tento soubor
-1. napište sem název a zadání svého projektu
+1. Voldyho projekt
+1. Hanojske věže
 1. v souboru [LICENSE](LICENSE) si nastavte licenci
 1. pracujte a **průběžně** sem nahrávejte své zdrojové kódy
 
